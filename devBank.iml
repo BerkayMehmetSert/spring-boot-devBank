@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/gen/account" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/gen/customer" isTestSource="false" generated="true" />
+    </content>
+  </component>
+</module>
